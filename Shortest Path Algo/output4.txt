@@ -1,0 +1,2 @@
+Sortest Path: Motijheel A B G J K L MOGHBAZAR 
+Minimum level of traffic: 22
